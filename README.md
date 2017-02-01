@@ -1,0 +1,2 @@
+# SayisalLoto
+Alıştırma
